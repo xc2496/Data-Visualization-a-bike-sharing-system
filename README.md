@@ -6,13 +6,13 @@ Note that this dataset will require some data wrangling in order to make it tidy
 ## What is the structure of your dataset?
 ### The dataset includes:
 
-Bike IDs
-How long was the bike rent for, in seconds
-The information about end station ID, latitude, longitude and name.
-The memeber's date of birth and gender
-The information about start station ID, latitude, longitude and name.
-The users' type as subscripted or not
-There are 2252058 rows and 15 columns of the dataset
+##### Bike IDs
+###### How long was the bike rent for, in seconds
+###### The information about end station ID, latitude, longitude and name.
+###### The memeber's date of birth and gender
+###### The information about start station ID, latitude, longitude and name.
+###### The users' type as subscripted or not
+###### There are 2252058 rows and 15 columns of the dataset
 
 ## What is/are the main feature(s) of interest in your dataset?
 I'm most interested in figuring out the usage of bike in different user groups, such as different genders or ages. For example, users in different genders may gave different usage bahavior, and users in differnt ages may also have different usage behvaior. The usage behavior can be the duration of using bike, distances and subscribe or not. I am also intereted in when are most trips taken in terms of day of the week and month of the year?
